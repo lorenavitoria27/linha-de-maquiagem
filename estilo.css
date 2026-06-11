@@ -1,0 +1,127 @@
+*{
+   margin: 0px;
+   padding: 0px;
+   }
+body{
+      background:#F5FFFA;
+      font-family:Times New Roman;
+	  margin-top: 5px;
+	}
+#header{
+       width: 1500px;
+	   height: 100px;
+	   margin: 10px auto;
+	   background:#AFEEEE;
+	     }	
+#header h1{
+	       display: block; 
+		  float:left;
+		  	   }
+#nav{ 
+		  list-style:none;
+		  padding-left: 50px;
+		  display: block;
+		  float: left;
+		  margin-left: 130px;	
+		  margin-top:44px;	  
+	     }
+			
+#nav li {
+	      float:left;
+		  margin-left: 60px;
+		  }	
+
+#nav a {
+	      text-decoration: none;
+		  text-transform: uppercase;
+		  padding-top: 8px;
+		  color:#000000;
+		  font-weight: bold;
+		  }	
+#nav a:hover{
+		 	  border-bottom: 2px solid #4682B4;
+		  }
+ul#nav a.ativa{
+		     border-bottom: 2px solid #4682B4;
+		  }
+#banner{
+		 margin-top:15px;
+		 width: 800px;
+		 float:left;
+		 height: 250px;
+		 margin: 0px auto;
+		 position: ;
+	   }
+ #section{
+		   width:800px;
+		   height:150px;
+		   background:#F5FFFA;
+		   margin:5px auto; 
+		   }
+.article{
+		   width:250px;
+		   float:center;
+		   margin:6px 10px;
+		   }
+.article h1{
+		         font-size: 19px;
+			 font-weight: bold;
+			 text-transform:uppercase;
+			 text-align:center;
+		   } 
+.article p{
+		   padding-top:6px;
+		   font-size: 12px;
+		   text-align:center;
+		   }
+		   
+ #footer{
+	   width: 300px;
+	   height: 45px;
+	   background:#AFEEEE;
+	   float:right;
+	   margin:0 auto;
+	   padding-top:25px;
+	   margin-left:560px;
+	   }
+#footer p{
+	   font-size: 12px;
+	   text-align: center;
+	  }
+
+	 
+ #conteudo{
+	   width:800px;
+	   height:400px;
+	   background:#F0FFF0;
+	   margin:15px auto; 
+	   padding-left:5px;
+	   }
+ .artigo{
+		   width:600px;
+		   margin:5px 8px;
+		   float:left;
+		   }	
+.artigo p{
+		   padding-top:15px; 
+		   font-size: 17px;
+		   text-align:justify;
+		   }	
+#conteudo1{
+	   width:800px;
+	   height:400px;
+	   background:#F0FFF0;
+	   margin:15px auto; 
+	   padding-left:5px;
+	   }  
+
+.artigo1{
+		   width:350px;
+		   margin:5px 8px;
+		   float:left;
+		   }
+
+.artigo1  h1{
+	        font-weight:bold;
+		    margin-bottom:5px;
+		  	   }	
